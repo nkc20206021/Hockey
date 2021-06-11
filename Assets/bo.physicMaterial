@@ -7,8 +7,14 @@ PhysicMaterial:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: bo
+<<<<<<< HEAD
   dynamicFriction: 0
   staticFriction: 0
   bounciness: 1
+=======
+  dynamicFriction: 0.6
+  staticFriction: 0.6
+  bounciness: 0
+>>>>>>> f14b1076ccac5bd045211db456f293ed6d9d6c1b
   frictionCombine: 0
   bounceCombine: 0
